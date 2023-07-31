@@ -1,5 +1,5 @@
 header{
-    background: #BBBBBB;
+    background: #c94c4c;
     padding: 20px 0;
 }
 .caixa{
@@ -28,7 +28,7 @@ nav a{
 }
 
 nav a;:hover{
-    color: hsl(258,  96%,  51%);
+    color: hsla(305, 100%, 50%, 0.425);
     text-decoration: underline;
 
 }
