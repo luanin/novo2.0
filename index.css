@@ -6,7 +6,7 @@
 }
 html,
 body {
-  background: rgb(244, 255, 143);
+  background: rgb(188, 129, 255);
   overscroll-behavior-x: none;
   overscroll-behavior-y: none;
 }
@@ -17,7 +17,7 @@ body {
   min-height: 100vh;
   text-align: center;
   overflow-x: hidden;
-  color: rgb(255, 117, 140);
+  color: rgb(129, 169, 255);
 }
 
 canvas {
