@@ -25,10 +25,12 @@ canvas {
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  position: fixed;
+  position: absolute;
   width: 100vw;
   height: 100vh;
   top: 0;
   left: 0;
   z-index: 0;
+  top: 15px;
+  right: 15px;
 }

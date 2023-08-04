@@ -34,7 +34,7 @@ function e(e) {
       .easing(n.Easing.Quadratic.Out)
       .start();
   }
-  
+  <
   import * as THREE from "three";
   
   import n from "three/addons/libs/tween.module.js";
