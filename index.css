@@ -17,7 +17,7 @@ body {
   min-height: 100vh;
   text-align: center;
   overflow-x: hidden;
-  color: rgb(129, 169, 255);
+  color: rgb(0, 0, 0);
 }
 
 canvas {
